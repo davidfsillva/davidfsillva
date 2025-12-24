@@ -5,7 +5,6 @@
 - 🤝 I’m looking to collaborate on open source Python projects
 - 🧠 I’m looking for guidance on scalable and maintainable applications
 - 💬 Ask me about Python and automation
-- 📫 How to reach me: davidfsillva@icloud.com
 - ⚡ Fun fact:  I’m always looking for ways to make my code more efficient and practical
 - 
 ##
@@ -18,5 +17,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 ##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ferreira-b324a71a3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidff_s/)
 [![iCloud Mail](https://img.shields.io/badge/iCloud_Mail-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)](mailto:davidfsillva@icloud.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidff_s/)
+
