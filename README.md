@@ -19,4 +19,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ferreira-b324a71a3)
 [![iCloud Mail](https://img.shields.io/badge/iCloud_Mail-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)](mailto:davidfsillva@icloud.com)
 
-![Snake animation](https://github.com/davidfsillva/davidfsillva/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidfsillva&theme=dark)
