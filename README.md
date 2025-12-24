@@ -7,3 +7,8 @@
 - 💬 Ask me about Python and automation
 - 📫 How to reach me: davidfsillva@icloud.com
 - ⚡ Fun fact:  I’m always looking for ways to make my code more efficient and practical
+- 
+##
+‹div style-"display: inline_block"><br>
+‹img align-"center" alt-"Rafa-Python" height-"30" width-"40" src--https://raw.glthubusercontent.com/devlcons/devicon/master/1cons/python/python-or1glnal.svg*>
+</div>
