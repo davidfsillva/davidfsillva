@@ -21,4 +21,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 
 #
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davidfsillva&theme=black)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davidfsillva&theme=dark&hide_border=true" />
+</p>
